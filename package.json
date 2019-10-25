@@ -1,0 +1,16 @@
+{
+  "name": "snowflake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "homepage": "https://ertemishakk.github.io/snowflake",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
